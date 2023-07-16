@@ -2,4 +2,3 @@
 venv/
 D1/__pycache__/
 D1/__init__.py
-db.sqlite3
